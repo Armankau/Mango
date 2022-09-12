@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: rgb(210, 47, 137);
+}
+
+p{
+    text-align: center;
+}
+
+li{
+    text-align:center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
